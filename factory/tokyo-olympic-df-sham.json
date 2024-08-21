@@ -1,0 +1,9 @@
+{
+	"name": "tokyo-olympic-df-sham",
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f4666a0-91e7-4f73-a0e0-56f6846fbd87",
+		"tenantId": "fb665cd7-b4b7-4578-8a42-29ff69176bdf"
+	}
+}
