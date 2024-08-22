@@ -1,7 +1,7 @@
 # Databricks notebook source
  # Replace with your storage account name and access key
 storage_account_name = "tokyoolympicdatasham"
-storage_account_access_key = "87xgvNVmcTKfFAlq71GTfn+IfYsnAGzzrRVpI1+yXGHxsRVlS9MSLT3P1Ug9JLuaYQr3hWU5pGMl+ASt3FVpGA=="
+storage_account_access_key = "secret"
 
 container_name = "tokyo-olympic-data-container" 
 mount_point = "/mnt/tokyo_olympics_data"
